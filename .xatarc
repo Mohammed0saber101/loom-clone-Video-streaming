@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://mohammed-saber-s-workspace-f78fs0.us-east-1.xata.sh/db/jsm_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
