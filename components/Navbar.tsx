@@ -18,7 +18,7 @@ function Navbar() {
             width={32}
             height={32}
           />
-          <h1>SnapCast</h1>
+          <span>SnapCast</span>
         </Link>
 
         {user && (
