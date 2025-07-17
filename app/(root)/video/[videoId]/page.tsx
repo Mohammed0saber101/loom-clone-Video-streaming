@@ -23,7 +23,7 @@ async function page({ params }: Params) {
       />
       <section className="video-details">
         <div className="content">
-          {/* <VideoPlayer videoId={video.videoId} /> */}
+          <VideoPlayer videoId={video.videoId} />
         </div>
       </section>
     </main>
